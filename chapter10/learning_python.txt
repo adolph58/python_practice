@@ -1,0 +1,3 @@
+In Python you can sum number
+In Python you can traverse the list
+In Python you can read files

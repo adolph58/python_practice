@@ -1,0 +1,7 @@
+import json
+
+filename = 'favorite_number.json'
+
+with open(filename, 'w') as f:
+    favorite_number = input("Input your favorite number: ")
+    json.dump(favorite_number, f)
